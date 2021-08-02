@@ -1,0 +1,83 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 27px;
+}
+.orange-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+    margin-left: 150px;
+}
+.top-banner{
+    margin-top: 150px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 25px 60px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 700;
+    margin-top: 300px;
+}
+.half-width{
+    width: 40%;
+}
+
+.recipies{
+    text-align:center;
+}
+.margin-left{
+    margin-left: 200px;
+}
+.recipie-title{
+    margin-left: 80px;
+    padding: 30px;
+    background: white;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 30px;
+}
+.font-size{
+    font-size: 15px;
+}
+.meal-plan{
+    text-align: center;
+    margin-left: 180px;
+    margin-bottom: 300px;
+}
+.main-menu ul{
+    list-style: none;
+}
+.main-menu ul li{
+    float: left;
+    background-color: rgb(20, 220, 187);
+    
+}
+.main-menu ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 30px 40px;
+    font-size: 30px;
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+footer h1{
+    color: whitesmoke;
+}
+footer p{
+    color: whitesmoke;
+}
